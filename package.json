@@ -1,0 +1,34 @@
+{
+  "name": "medicare---a-patient-management-system",
+  "version": "1.0.0",
+  "description": "Main Evaluations module 4 (Backend API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetna-Jha-QC/MediCare---A-Patient-Management-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Chetna-Jha-QC/MediCare---A-Patient-Management-System/issues"
+  },
+  "homepage": "https://github.com/Chetna-Jha-QC/MediCare---A-Patient-Management-System#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "ioredis": "^5.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.11.0",
+    "node-cron": "^3.0.3",
+    "objects-to-csv": "^1.3.6",
+    "redis": "^4.7.0",
+    "supertest": "^7.0.0"
+  }
+}
